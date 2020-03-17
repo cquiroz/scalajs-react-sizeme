@@ -1,5 +1,9 @@
 # Changes
 
+## 0.3.1
+
+* Update scalajs-common
+
 ## 0.2.1
 
 * Update scalajs-common and scalajs
